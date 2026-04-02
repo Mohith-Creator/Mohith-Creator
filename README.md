@@ -1,80 +1,90 @@
+<h1 align="center">Mohith Reddy</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2C2C2C&height=180&section=header&text=Mohith%20Reddy&fontSize=40&fontColor=F5F5F5&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=65&descSize=16" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BFA76F&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Applications;Clean+Code+%7C+Real+World+Projects" />
 </p>
 
-## Profile
-
-Full Stack Developer focused on building **scalable, practical, and clean applications**.
-
-I approach development with an emphasis on:
-- Simplicity  
-- Performance  
-- Real-world usability  
-
-Currently refining **DSA, backend systems, and system design fundamentals**.
+<p align="center">
+  <i>Minimal. Intentional. Built to last.</i>
+</p>
 
 ---
 
-## Tech
+## 𐄂 Profile
 
-**Languages**  
-Java · JavaScript  
+Full Stack Developer focused on crafting **clean, scalable, and meaningful software**.
 
-**Frontend**  
-React · React Native · Tailwind CSS  
-
-**Backend**  
-Node.js · Express  
-
-**Database & Tools**  
-MongoDB · Git · Postman · Vercel  
+- Strong in **JavaScript ecosystem (React, Node.js)**
+- Focused on **DSA + backend engineering**
+- Passionate about **real-world problem solving**
 
 ---
 
-## Selected Work
+## ⚙️ Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,git,postman,vercel" />
+
+</p>
+
+---
+
+## ✦ Work
 
 **Real-Time Location Tracker**  
-Designed a scalable backend system for multi-vendor delivery tracking with live updates.
+→ Backend-first system for live delivery tracking  
+→ Built for multi-vendor scalability  
 
 **URL Shortener**  
-Built a React-based tool with custom shortcodes, expiry logic, and analytics.
+→ Custom links, expiry logic, analytics  
+→ Lightweight and efficient  
 
 **To-Do System**  
-Developed an offline-first productivity application with structured task handling.
+→ Offline-first architecture  
+→ Designed for reliability  
 
 **GenAI Financial Assistant**  
-Working on an intelligent system for financial learning, simulation, and decision-making.
+→ Smart finance + learning + simulation system  
 
 ---
 
-## Activity
+## ⚡ Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohith-Creator&show_icons=false&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-Creator&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohith-Creator&show_icons=true&theme=transparent&hide_border=true&title_color=BFA76F&text_color=888" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-Creator&layout=compact&theme=transparent&hide_border=true&title_color=BFA76F&text_color=888" height="150"/>
 </p>
 
 ---
 
-## Direction
+## ✧ Current Direction
 
 - Data Structures & Algorithms  
 - Backend Engineering  
-- Scalable Application Design  
+- Scalable Systems  
 
 ---
 
-## Contact
+## ☍ Connect
 
-- LinkedIn → https://www.linkedin.com/in/mohithreddy1532/  
-- Email → smohithreddy000@gmail.com  
-- GitHub → https://github.com/Mohith-Creator  
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohithreddy1532/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:smohithreddy000@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Mohith-Creator">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
-## Principle
+## ❖ Philosophy
 
-> Simplicity is the ultimate sophistication.
+> Build less. Build better.
 
 <p align="center">
   <sub>Mohith Reddy</sub>
