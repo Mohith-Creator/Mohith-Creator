@@ -1,29 +1,32 @@
 <h1 align="center">Mohith Reddy</h1>
+
 <p align="center">
-  <i>Full Stack Developer · Final Year B.Tech</i>
+  <i>Full Stack Developer · B.Tech Final Year</i>
 </p>
 
 <p align="center">
-  Building clean, scalable, and purposeful digital products.
+  Designing systems that are simple, scalable, and built to last.
 </p>
 
 ---
 
-## About
+## Profile
 
-I’m a final-year engineering student focused on crafting **practical full stack applications** with attention to **performance, simplicity, and usability**.
+A developer focused on building **real-world applications** with clarity, efficiency, and long-term usability in mind.
 
-- Focus: Full Stack Development  
-- Strengths: JavaScript, React, Backend Systems  
-- Current Direction: DSA · Scalable Systems · Production-ready apps  
-- Goal: Contribute as a **Full Stack Developer** in a high-impact team  
+I value:
+- Clean architecture  
+- Practical problem solving  
+- Minimal and functional design  
+
+Currently working on improving **data structures, backend systems, and scalable application design**.
 
 ---
 
-## Stack
+## Tech
 
 **Languages**  
-Java · JavaScript · HTML · CSS  
+Java · JavaScript  
 
 **Frontend**  
 React · React Native · Tailwind CSS  
@@ -36,46 +39,53 @@ MongoDB · Git · Postman · Vercel
 
 ---
 
-## Selected Work
+## Work
 
 **Real-Time Location Tracker**  
-A scalable backend-first system designed for multi-vendor delivery tracking with live updates.
+A backend-driven system for live delivery tracking, designed for multi-vendor scalability.
 
 **URL Shortener**  
-A clean React-based application with custom shortcodes, expiry logic, and analytics.
+A lightweight React application with custom links, expiration handling, and usage tracking.
 
-**To-Do Application**  
-Offline-first productivity tool with structured task management and future sync capability.
+**To-Do System**  
+Offline-first task manager focused on reliability and structured workflows.
 
 **GenAI Financial Assistant**  
-An intelligent system for learning, simulation, and decision-making in personal finance.
+A decision-support system combining learning, simulation, and financial insights.
 
 ---
 
-## Current Focus
+## Activity
 
-- Daily Data Structures & Algorithms practice  
-- Building production-level full stack systems  
-- Strengthening backend architecture & system design  
-
----
-
-## Connect
-
-- LinkedIn: https://www.linkedin.com/in/mohithreddy1532/  
-- Email: smohithreddy000@gmail.com  
-- GitHub: https://github.com/Mohith-Creator  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohith-Creator&show_icons=false&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-Creator&layout=compact&hide_border=true" height="150"/>
+</p>
 
 ---
 
-## Philosophy
+## Direction
 
-> Build with intent.  
-> Keep it simple.  
-> Let the work speak.
+- Strengthening Data Structures & Algorithms  
+- Building production-ready backend systems  
+- Exploring scalable architectures  
+
+---
+
+## Contact
+
+- LinkedIn → https://www.linkedin.com/in/mohithreddy1532/  
+- Email → smohithreddy000@gmail.com  
+- GitHub → https://github.com/Mohith-Creator  
+
+---
+
+## Principle
+
+> Simplicity is the ultimate sophistication.
 
 ---
 
 <p align="center">
-  <sub>© Mohith Reddy</sub>
+  <sub>Mohith Reddy</sub>
 </p>
