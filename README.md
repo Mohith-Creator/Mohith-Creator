@@ -1,25 +1,17 @@
-<h1 align="center">Mohith Reddy</h1>
-
 <p align="center">
-  <i>Full Stack Developer · B.Tech Final Year</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:2C2C2C&height=180&section=header&text=Mohith%20Reddy&fontSize=40&fontColor=F5F5F5&fontAlignY=45&desc=Full%20Stack%20Developer&descAlignY=65&descSize=16" />
 </p>
-
-<p align="center">
-  Designing systems that are simple, scalable, and built to last.
-</p>
-
----
 
 ## Profile
 
-A developer focused on building **real-world applications** with clarity, efficiency, and long-term usability in mind.
+Full Stack Developer focused on building **scalable, practical, and clean applications**.
 
-I value:
-- Clean architecture  
-- Practical problem solving  
-- Minimal and functional design  
+I approach development with an emphasis on:
+- Simplicity  
+- Performance  
+- Real-world usability  
 
-Currently working on improving **data structures, backend systems, and scalable application design**.
+Currently refining **DSA, backend systems, and system design fundamentals**.
 
 ---
 
@@ -39,19 +31,19 @@ MongoDB · Git · Postman · Vercel
 
 ---
 
-## Work
+## Selected Work
 
 **Real-Time Location Tracker**  
-A backend-driven system for live delivery tracking, designed for multi-vendor scalability.
+Designed a scalable backend system for multi-vendor delivery tracking with live updates.
 
 **URL Shortener**  
-A lightweight React application with custom links, expiration handling, and usage tracking.
+Built a React-based tool with custom shortcodes, expiry logic, and analytics.
 
 **To-Do System**  
-Offline-first task manager focused on reliability and structured workflows.
+Developed an offline-first productivity application with structured task handling.
 
 **GenAI Financial Assistant**  
-A decision-support system combining learning, simulation, and financial insights.
+Working on an intelligent system for financial learning, simulation, and decision-making.
 
 ---
 
@@ -66,9 +58,9 @@ A decision-support system combining learning, simulation, and financial insights
 
 ## Direction
 
-- Strengthening Data Structures & Algorithms  
-- Building production-ready backend systems  
-- Exploring scalable architectures  
+- Data Structures & Algorithms  
+- Backend Engineering  
+- Scalable Application Design  
 
 ---
 
@@ -83,8 +75,6 @@ A decision-support system combining learning, simulation, and financial insights
 ## Principle
 
 > Simplicity is the ultimate sophistication.
-
----
 
 <p align="center">
   <sub>Mohith Reddy</sub>
