@@ -1,138 +1,217 @@
-<h1 align="center">Hi 👋, I'm Mohith Reddy</h1>
-<h3 align="center">Final Year B.Tech Student | Full Stack Developer | Building Real-World Projects</h3>
+```markdown
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Problem+Solver+%7C+Placement+Focused;Building+Projects+That+Matter" alt="Typing SVG" />
-</p>
+# Hi there 👋 I'm Mohith Reddy
 
----
+### Full Stack Developer • React Native Developer • AI Enthusiast
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Building+Real-World+Applications;Always+Learning+Something+New;Open+to+Software+Engineering+Opportunities" />
 
-- 🎓 Final Year **B.Tech Student**
-- 💻 Passionate about **Full Stack Development**
-- 🌱 Currently improving my skills in **DSA, Backend Development, and Scalable Web Apps**
-- 🛠️ Love building **real-world applications** with clean UI and practical features
-- 🎯 Preparing for **placements** and looking for opportunities as a **Full Stack Developer**
-- ⚡ Strong interest in **React, JavaScript, Node.js, Express, MongoDB**
+<br/>
 
----
+<a href="https://github.com/Mohith-Creator">
+<img src="https://img.shields.io/github/followers/Mohith-Creator?label=Followers&style=for-the-badge"/>
+</a>
 
-## 🌐 Connect With Me
+<a href="https://github.com/Mohith-Creator">
+<img src="https://img.shields.io/github/stars/Mohith-Creator?affiliations=OWNER&style=for-the-badge"/>
+</a>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohithreddy1532/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:smohithreddy000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Mohith-Creator" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=Mohith-Creator&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
+
+I'm a passionate **Full Stack Developer** who enjoys building practical software that solves real-world problems.
+
+I love creating applications with modern technologies while continuously improving my skills in backend development, mobile development, AI, and system design.
+
+- 💻 Full Stack Developer (MERN)
+- 📱 React Native Developer
+- 🤖 Exploring AI Applications
+- ⚡ Java & JavaScript Enthusiast
+- 🌱 Learning System Design & Scalable Architecture
+- 🎯 Looking for Software Engineer opportunities
+
+---
+
+# 🛠 Tech Stack
 
 ### Languages
+
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,js,html,css"/>
 </p>
 
 ### Frontend
+
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
 ### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-### Database & Tools
+### Database
+
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel"/>
 </p>
 
 ---
 
-## 📌 Featured Projects
+# 🌟 Featured Projects
 
-### 🚚 Real-Time Location Tracker for Multivendor Delivery Platform
-- Built a real-time tracking system for delivery operations
-- Focused on backend-first architecture and actual location updates
-- Designed for scalable multi-vendor use cases
+## 👕 ClosetIQ
+> AI-powered digital wardrobe & outfit planner built with React Native.
 
-### 🔗 URL Shortener App
-- Frontend-based URL shortener built with React
-- Added custom shortcode generation, expiry handling, and click tracking
-- Implemented statistics and local data persistence
+✨ Features
 
-### ✅ To-Do List App
-- Built an offline-first productivity app
-- Added support for due dates, categories, and notifications
-- Designed for smooth local usage with future sync support
+- Digital Closet
+- Outfit Builder
+- Smart Outfit Suggestions
+- Wardrobe Analytics
+- Personalized Fashion Experience
 
-### 💸 GenAI-Powered Financial Assistant
-- Building a smart finance-focused app for better investing decisions
-- Includes chatbot, portfolio tools, education, recommendations, and simulations
+**Tech Stack**
+
+React Native • Node.js • Express • MongoDB
 
 ---
 
-## 📊 GitHub Stats
+## 📚 FormulaIQ
+
+A beautifully designed formula learning app for students.
+
+✨ Features
+
+- 500+ Mathematical Formulas
+- Beautiful UI
+- Smart Search
+- Categories
+- Favorites
+- Offline Support
+
+**Tech Stack**
+
+React Native
+
+---
+
+## 💰 AI Financial Assistant
+
+An intelligent finance application powered by AI.
+
+Features include
+
+- Portfolio Analysis
+- AI Chatbot
+- Investment Education
+- Financial Simulations
+- Personalized Recommendations
+
+---
+
+## 🚚 Real-Time Delivery Tracker
+
+Backend-focused location tracking platform for multi-vendor delivery systems.
+
+Highlights
+
+- Live Location Tracking
+- Real-Time Updates
+- Backend APIs
+- Scalable Architecture
+
+---
+
+## 🔗 URL Shortener
+
+Modern URL shortening application with
+
+- Custom Short URLs
+- Click Analytics
+- Expiration Support
+- Responsive UI
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohith-Creator&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-Creator&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohith-Creator&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight" height="180em"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith-Creator&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 Coding Profiles
+# 🎯 Currently Working On
+
+- 📱 React Native Apps
+- 🤖 AI Powered Applications
+- ⚙️ Backend Development
+- 📚 Data Structures & Algorithms
+- 🏗️ System Design Basics
+
+---
+
+# 🌐 Connect With Me
 
 <p>
-  <a href="https://leetcode.com/YOUR-ID/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/YOUR-ID">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-  <a href="https://www.codechef.com/users/YOUR-ID">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-  </a>
+
+<a href="mailto:smohithreddy000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mohithreddy1532/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Mohith-Creator">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-## 🎯 Current Focus
+# 💡 Philosophy
 
-- Solving **DSA problems daily**
-- Building **placement-ready full stack projects**
-- Improving **backend development and system design basics**
-- Strengthening **Java + JavaScript** for interviews
+> **"Great software isn't just written—it is thoughtfully designed, carefully built, and continuously improved."**
 
 ---
 
-## ✨ Quote I Believe In
+<div align="center">
 
-> "Build projects that solve real problems, and let your work speak for you."
+### Thanks for visiting my profile ❤️
 
----
+⭐ If you like my work, consider giving my repositories a star!
 
-<p align="center">⭐️ From <a href="https://github.com/YOUR-GITHUB-USERNAME">Mohith Reddy</a></p>
+</div>
+```
