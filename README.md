@@ -84,137 +84,194 @@ React Native • Expo
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma"/>
 </p>
 
----
-
 # 🚀 Project Showcase
 
+<p align="center">
+  <i>Some of the products I've designed and developed with a focus on user experience, performance, and scalability.</i>
+</p>
+
 ---
 
-## 👔 ClosetIQ
+<table>
+<tr>
 
-<p align="center">
-<img src="./assets/projects/closetiq-cover.png" width="100%">
-</p>
+<td width="55%" valign="top">
+
+# 👔 ClosetIQ
 
 ### AI-Powered Digital Wardrobe
 
-ClosetIQ is an intelligent wardrobe management application that helps users organize clothing, build outfits, receive AI recommendations, and track wardrobe insights.
+ClosetIQ is an intelligent wardrobe management platform that helps users organize clothing, build outfits, receive AI recommendations, and gain wardrobe insights.
 
-### Features
+### ✨ Highlights
 
-- 🤖 AI Outfit Suggestions
-- 👕 Digital Wardrobe
+- 🤖 AI Outfit Recommendations
+- 👕 Smart Digital Closet
 - 📅 Outfit Planner
 - 📊 Wardrobe Analytics
 - ❤️ Favorites
 - 🎯 Outfit Builder
 
-**Tech Stack**
+### 🛠 Tech Stack
 
-`React Native` • `Node.js` • `MongoDB` • `Express`
+`React Native` • `Node.js` • `Express` • `MongoDB`
 
-<p>
+<br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="#">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
-</p>
+</td>
+
+<td width="45%" align="center">
+
+<img src="./assets/projects/closetiq-cover.png" width="100%"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 📘 FormulaIQ
+<table>
+<tr>
 
-<p align="center">
-<img src="./assets/projects/formulaiq-cover.png" width="100%">
-</p>
+<td width="45%" align="center">
+
+<img src="./assets/projects/formulaiq-cover.png" width="100%"/>
+
+</td>
+
+<td width="55%" valign="top">
+
+# 📘 FormulaIQ
 
 ### Smart Formula Handbook
 
-FormulaIQ helps competitive exam aspirants quickly access formulas with beautiful UI, smart search, categorized chapters, and offline support.
+FormulaIQ is a beautifully designed learning companion that provides quick access to mathematical formulas with powerful search and organized chapters.
 
-### Features
+### ✨ Highlights
 
-- 🔍 Smart Search
 - 📚 500+ Formulas
-- 🧮 Formula Categories
+- 🔍 Smart Search
 - ⭐ Favorites
-- 📱 Offline Access
+- 📖 Category-wise Learning
+- 📱 Offline Support
 
-**Tech Stack**
+### 🛠 Tech Stack
 
 `React Native` • `Expo` • `AsyncStorage`
 
-<p>
+<br>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Live_Demo-2563EB?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="#">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
 
 ---
 
-## 🤖 AI Financial Assistant
+<table>
+<tr>
 
-<p align="center">
-<img src="./assets/projects/ai-financial-cover.png" width="100%">
-</p>
+<td width="55%" valign="top">
+
+# 🤖 AI Financial Assistant
 
 ### AI-Powered Investment Companion
 
-An intelligent financial assistant that helps users understand investments, analyze portfolios, receive AI recommendations, and improve financial literacy.
+An intelligent finance platform that helps users understand investing, analyze portfolios, chat with AI, and improve financial literacy.
 
-### Features
+### ✨ Highlights
 
-- 🤖 AI Chatbot
+- 🤖 AI Chat Assistant
 - 📈 Portfolio Analysis
-- 📊 Investment Simulator
+- 💰 Investment Recommendations
 - 📚 Financial Education
-- 💰 Smart Recommendations
+- 📊 Smart Dashboard
 
-**Tech Stack**
+### 🛠 Tech Stack
 
 `React` • `Node.js` • `MongoDB` • `OpenAI`
 
+<br>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Coming_Soon-10B981?style=for-the-badge"/>
+</a>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="./assets/projects/ai-financial-cover.png" width="100%"/>
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-## 🎓 Study Buddy
+<table>
+<tr>
 
-<p align="center">
-<img src="./assets/projects/studybuddy-cover.png" width="100%">
-</p>
+<td width="45%" align="center">
+
+<img src="./assets/projects/studybuddy-cover.png" width="100%"/>
+
+</td>
+
+<td width="55%" valign="top">
+
+# 🎓 Study Buddy
 
 ### Collaborative Learning Platform
 
-A full-stack web platform where students can find study partners, share study resources, collaborate on projects, and connect with peers.
+A full-stack web platform where students can connect, collaborate, discover study partners, and share educational resources.
 
-### Features
+### ✨ Highlights
 
-- 👥 Study Partner Matching
-- 📝 Discussion Posts
-- 💬 Real-time Collaboration
+- 👥 Student Community
+- 📝 Discussion Boards
 - 📚 Resource Sharing
-- 🔍 Skill-based Discovery
+- 🤝 Study Groups
+- 🔍 Smart Discovery
 
-**Tech Stack**
+### 🛠 Tech Stack
 
 `React` • `Node.js` • `Express` • `MongoDB`
 
----
+<br>
 
+<a href="#">
+<img src="https://img.shields.io/badge/View_Project-2563EB?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
 # 📊 GitHub Analytics
 
 <p align="center">
