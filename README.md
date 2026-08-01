@@ -170,7 +170,7 @@ FormulaIQ helps competitive exam aspirants quickly access formulas with beautifu
 ## 🤖 AI Financial Assistant
 
 <p align="center">
-<img src="./assets/projects/finance-cover.png" width="100%">
+<img src="./assets/projects/ai-financial-cover.png" width="100%">
 </p>
 
 ### AI-Powered Investment Companion
