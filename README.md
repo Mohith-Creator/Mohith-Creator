@@ -113,11 +113,11 @@ AI-powered mobile application for removing image backgrounds and generating tran
 `Python` `FastAPI` `rembg`
 
 <p>
-  <a href="YOUR_CLEARCUT_GITHUB_LINK">
+  <a href="https://github.com/Mohith-Creator/ClearCut-mobile">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="YOUR_CLEARCUT_DEMO_LINK">Live Demo →</a>
+  <a href="https://expo.dev/accounts/mohith1532/projects/ClearCut/builds/50674834-cf1b-46d9-b2fc-3bcdace62595">Live Demo →</a>
 </p>
 
 </td>
@@ -138,11 +138,11 @@ A student-focused platform designed to help learners connect, collaborate, and f
 `MongoDB` `JWT`
 
 <p>
-  <a href="YOUR_STUDYBUDDY_GITHUB_LINK">
+  <a href="https://github.com/Mohith-Creator/studybuddy">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="YOUR_STUDYBUDDY_DEMO_LINK">Live Demo →</a>
+  <a href="#">Live Demo →</a>
 </p>
 
 </td>
@@ -167,11 +167,11 @@ A mobile marketplace for browsing products, managing listings, and connecting bu
 `Express` `MongoDB`
 
 <p>
-  <a href="YOUR_LOCALMART_GITHUB_LINK">
+  <a href="https://github.com/Mohith-Creator/LocalMart">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
   <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="YOUR_LOCALMART_DEMO_LINK">Live Demo →</a>
+  <a href="#">Live Demo →</a>
 </p>
 
 </td>
@@ -192,11 +192,11 @@ A personal developer portfolio showcasing projects, technical skills, experience
 `Vercel`
 
 <p>
-  <a href="YOUR_PORTFOLIO_GITHUB_LINK">
+  <a href="https://github.com/Mohith-Creator/portfolio">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="YOUR_PORTFOLIO_DEMO_LINK">Live Demo →</a>
+  <a href="https://portfolio-mohith-reddys-projects-d7edca38.vercel.app/">Live Demo →</a>
 </p>
 
 </td>
