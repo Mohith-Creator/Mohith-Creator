@@ -2,29 +2,139 @@
   <img src="./assets/banner.png" width="100%" alt="Mohith Reddy Banner"/>
 </p>
 
+<p align="center">
+  <a href="https://github.com/Mohith-Creator">
+    <img src="https://img.shields.io/badge/GitHub-Mohith--Creator-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohithreddy1532">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohith%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:smohithreddy000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Building software that solves real-world problems.</strong>
+  <br/>
+  Creating clean, practical, and scalable applications across web, mobile, and AI.
+</p>
+
 ---
 
-## 🔨 Currently Building
+## 🚀 Currently Building
 
-### 🪄 ClearCut
+<table>
+<tr>
 
-**AI Background Removal Application**
+<td width="50%" valign="top">
 
-A mobile application that allows users to upload an image, automatically remove its background using AI, preview the result, and save the processed PNG.
+<p align="center">
+  <img src="./assets/projects/closetiq-cover.png" width="100%" alt="ClosetIQ"/>
+</p>
 
-**Tech Stack**
+<h3 align="center">👕 ClosetIQ</h3>
 
-`React Native` `Expo` `Node.js` `Python` `FastAPI` `rembg`
+<p align="center">
+  <strong>AI-Powered Smart Wardrobe Assistant</strong>
+</p>
 
-### 🧮 FormulaIQ
+<p align="center">
+  Digitizing your wardrobe and making outfit planning smarter with AI.
+</p>
 
-**Math Formula Learning Companion**
+### ✨ Highlights
 
-A mobile learning application designed to help students quickly revise important mathematical formulas with offline access, flashcards, study sessions, and progress tracking.
+- 👕 Digitize and organize your wardrobe
+- 🤖 AI-powered outfit recommendations
+- 👔 Create and manage outfits
+- 📅 Plan what to wear
+- ✨ Personalized style suggestions
 
-**Tech Stack**
+### 🧰 Built With
 
-`React Native` `Expo` `JavaScript` `AsyncStorage`
+`React Native` `Expo` `Node.js`  
+`Python` `AI` `MongoDB`
+
+### 🎯 Focus
+
+`AI Integration` `Mobile UX` `Personalization`
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="center">
+  <img src="./assets/projects/formulaiq-cover.png" width="100%" alt="FormulaIQ"/>
+</p>
+
+<h3 align="center">🧮 FormulaIQ</h3>
+
+<p align="center">
+  <strong>Math Formula Learning Companion</strong>
+</p>
+
+<p align="center">
+  Making formula revision faster, simpler, and more engaging.
+</p>
+
+### ✨ Highlights
+
+- 📚 Offline formula access
+- 🃏 Interactive flashcards
+- ⏱️ Focused study sessions
+- 📊 Progress tracking
+
+### 🧰 Built With
+
+`React Native` `Expo` `JavaScript`  
+`AsyncStorage`
+
+### 🎯 Focus
+
+`Offline First` `Study Tools` `Progress Tracking`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### 📌 Current Focus
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+**🛠️ Building**
+
+Working on practical applications  
+with real-world use cases.
+
+</td>
+
+<td align="center" width="33%">
+
+**🧠 Learning**
+
+Exploring better architecture,  
+AI integration, and system design.
+
+</td>
+
+<td align="center" width="33%">
+
+**🚀 Improving**
+
+Continuously refining UI,  
+performance, and user experience.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
