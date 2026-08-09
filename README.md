@@ -210,101 +210,97 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 <table>
 <tr>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top">
 
 ### Frontend
 
 | | Technology |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=html" width="28"/> | **HTML5** |
-| <img src="https://skillicons.dev/icons?i=css" width="28"/> | **CSS3** |
-| <img src="https://skillicons.dev/icons?i=js" width="28"/> | **JavaScript** |
-| <img src="https://skillicons.dev/icons?i=react" width="28"/> | **React** |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="28"/> | **Next.js** |
+| <img src="https://skillicons.dev/icons?i=html" width="24"/> | **HTML5** |
+| <img src="https://skillicons.dev/icons?i=css" width="24"/> | **CSS3** |
+| <img src="https://skillicons.dev/icons?i=js" width="24"/> | **JavaScript** |
+| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **React** |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="24"/> | **Next.js** |
+
+</td>
+
+<td width="33%" valign="top">
 
 ### Mobile Development
 
 | | Technology |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=react" width="28"/> | **React Native** |
-| <img src="https://skillicons.dev/icons?i=expo" width="28"/> | **Expo** |
+| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **React Native** |
+| <img src="https://skillicons.dev/icons?i=expo" width="24"/> | **Expo** |
 
 </td>
 
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### Backend
 
 | | Technology |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="28"/> | **Node.js** |
-| <img src="https://skillicons.dev/icons?i=express" width="28"/> | **Express.js** |
-| <img src="https://skillicons.dev/icons?i=python" width="28"/> | **Python** |
-| <img src="https://skillicons.dev/icons?i=fastapi" width="28"/> | **FastAPI** |
-| <img src="https://skillicons.dev/icons?i=java" width="28"/> | **Java** |
-| <img src="https://skillicons.dev/icons?i=spring" width="28"/> | **Spring Boot** |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> | **Node.js** |
+| <img src="https://skillicons.dev/icons?i=express" width="24"/> | **Express.js** |
+| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Python** |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> | **FastAPI** |
+| <img src="https://skillicons.dev/icons?i=java" width="24"/> | **Java** |
+| <img src="https://skillicons.dev/icons?i=spring" width="24"/> | **Spring Boot** |
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
 
 ### Databases
 
 | | Technology |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="28"/> | **MongoDB** |
-| <img src="https://skillicons.dev/icons?i=mysql" width="28"/> | **MySQL** |
-| <img src="https://skillicons.dev/icons?i=postgresql" width="28"/> | **PostgreSQL** |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="24"/> | **MongoDB** |
+| <img src="https://skillicons.dev/icons?i=mysql" width="24"/> | **MySQL** |
+| <img src="https://skillicons.dev/icons?i=postgresql" width="24"/> | **PostgreSQL** |
 
 </td>
-</tr>
-</table>
+
+<td width="33%" valign="top">
 
 ### Tools & Platforms
 
-<table>
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=git" width="28"/> **Git**
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=github" width="28"/> **GitHub**
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=vscode" width="28"/> **VS Code**
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=git" width="24"/> | **Git** |
+| <img src="https://skillicons.dev/icons?i=github" width="24"/> | **GitHub** |
+| <img src="https://skillicons.dev/icons?i=vscode" width="24"/> | **VS Code** |
+| <img src="https://skillicons.dev/icons?i=idea" width="24"/> | **IntelliJ IDEA** |
+| <img src="https://skillicons.dev/icons?i=postman" width="24"/> | **Postman** |
+| <img src="https://skillicons.dev/icons?i=docker" width="24"/> | **Docker** |
+| <img src="https://skillicons.dev/icons?i=vercel" width="24"/> | **Vercel** |
+| <img src="https://skillicons.dev/icons?i=render" width="24"/> | **Render** |
 
 </td>
-<td>
 
-<img src="https://skillicons.dev/icons?i=idea" width="28"/> **IntelliJ IDEA**
+<td width="33%" valign="top">
 
-</td>
-</tr>
+### AI & Other
 
-<tr>
-<td>
-
-<img src="https://skillicons.dev/icons?i=postman" width="28"/> **Postman**
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=docker" width="28"/> **Docker**
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=tensorflow" width="24"/> | **TensorFlow** |
+| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Pandas** |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> | **REST APIs** |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> | **JWT** |
+| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **AsyncStorage** |
 
 </td>
-<td>
 
-<img src="https://skillicons.dev/icons?i=vercel" width="28"/> **Vercel**
-
-</td>
-<td>
-
-<img src="https://skillicons.dev/icons?i=render" width="28"/> **Render**
-
-</td>
 </tr>
 </table>
+
 ---
 
 ## 💡 What I Like Building
