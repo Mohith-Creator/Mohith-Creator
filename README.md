@@ -227,17 +227,6 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 <td width="25%" valign="top">
 
-### Mobile
-
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **React Native** |
-| <img src="https://skillicons.dev/icons?i=expo" width="24"/> | **Expo** |
-
-</td>
-
-<td width="25%" valign="top">
-
 ### Backend
 
 | | Technology |
@@ -247,6 +236,19 @@ A personal developer portfolio showcasing projects, technical skills, experience
 | <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Python** |
 | <img src="https://skillicons.dev/icons?i=java" width="24"/> | **Java** |
 | <img src="https://skillicons.dev/icons?i=spring" width="24"/> | **Spring Boot** |
+
+</td>
+
+<td width="25%" valign="top">
+
+### Tools
+
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=git" width="24"/> | **Git** |
+| <img src="https://skillicons.dev/icons?i=github" width="24"/> | **GitHub** |
+| <img src="https://skillicons.dev/icons?i=vscode" width="24"/> | **VS Code** |
+| <img src="https://skillicons.dev/icons?i=idea" width="24"/> | **IntelliJ IDEA** |
 
 </td>
 
@@ -267,14 +269,12 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 <td width="25%" valign="top">
 
-### Tools
+### Mobile
 
 | | Technology |
 |---|---|
-| <img src="https://skillicons.dev/icons?i=git" width="24"/> | **Git** |
-| <img src="https://skillicons.dev/icons?i=github" width="24"/> | **GitHub** |
-| <img src="https://skillicons.dev/icons?i=vscode" width="24"/> | **VS Code** |
-| <img src="https://skillicons.dev/icons?i=idea" width="24"/> | **IntelliJ IDEA** |
+| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **React Native** |
+| <img src="https://skillicons.dev/icons?i=expo" width="24"/> | **Expo** |
 
 </td>
 
