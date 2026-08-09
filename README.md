@@ -394,9 +394,9 @@ Building useful tools and applications that simplify everyday tasks and workflow
 
 <p align="center">
   <img
-    src="./assets/github-metrics.svg"
+    src="./assets/contribution-graph.svg"
     width="95%"
-    alt="GitHub Contribution Activity"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
@@ -411,7 +411,6 @@ Building useful tools and applications that simplify everyday tasks and workflow
 | ✓ | Build and deploy mobile applications |
 | ☐ | Contribute to Open Source |
 | ☐ | Build more AI-powered products |
-| ☐ | Improve System Design skills |
 | ☐ | Strengthen DSA fundamentals |
 | ☐ | Grow as a Software Engineer |
 
