@@ -100,7 +100,7 @@ Making formula revision faster, simpler, and more engaging.
 <td width="50%" valign="top">
 
 <p align="left">
-  <img src="./assets/projects/clearcut.png" width="100%" alt="ClearCut"/>
+  <img src="./assets/projects/clearcut-cover.png" width="100%" alt="ClearCut"/>
 </p>
 
 ### ✂️ ClearCut
@@ -113,12 +113,11 @@ AI-powered mobile application for removing image backgrounds and generating tran
 `Python` `FastAPI` `rembg`
 
 <p>
-  <a href="YOUR_CLEARCUT_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-  </a>
   <a href="YOUR_CLEARCUT_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="YOUR_CLEARCUT_DEMO_LINK">Live Demo →</a>
 </p>
 
 </td>
@@ -126,7 +125,7 @@ AI-powered mobile application for removing image backgrounds and generating tran
 <td width="50%" valign="top">
 
 <p align="left">
-  <img src="./assets/projects/studybuddy.png" width="100%" alt="StudyBuddy"/>
+  <img src="./assets/projects/studybuddy-cover.png" width="100%" alt="StudyBuddy"/>
 </p>
 
 ### 📚 StudyBuddy
@@ -139,12 +138,11 @@ A student-focused platform designed to help learners connect, collaborate, and f
 `MongoDB` `JWT`
 
 <p>
-  <a href="YOUR_STUDYBUDDY_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-  </a>
   <a href="YOUR_STUDYBUDDY_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="YOUR_STUDYBUDDY_DEMO_LINK">Live Demo →</a>
 </p>
 
 </td>
@@ -156,7 +154,7 @@ A student-focused platform designed to help learners connect, collaborate, and f
 <td width="50%" valign="top">
 
 <p align="left">
-  <img src="./assets/projects/localmart.png" width="100%" alt="LocalMart"/>
+  <img src="./assets/projects/localmart-cover.png" width="100%" alt="LocalMart"/>
 </p>
 
 ### 🛍️ LocalMart
@@ -169,12 +167,11 @@ A mobile marketplace for browsing products, managing listings, and connecting bu
 `Express` `MongoDB`
 
 <p>
-  <a href="YOUR_LOCALMART_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-  </a>
   <a href="YOUR_LOCALMART_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="YOUR_LOCALMART_DEMO_LINK">Live Demo →</a>
 </p>
 
 </td>
@@ -182,7 +179,7 @@ A mobile marketplace for browsing products, managing listings, and connecting bu
 <td width="50%" valign="top">
 
 <p align="left">
-  <img src="./assets/projects/portfolio.png" width="100%" alt="Developer Portfolio"/>
+  <img src="./assets/projects/portfolio-cover.png" width="100%" alt="Developer Portfolio"/>
 </p>
 
 ### 💻 Developer Portfolio
@@ -195,12 +192,11 @@ A personal developer portfolio showcasing projects, technical skills, experience
 `Vercel`
 
 <p>
-  <a href="YOUR_PORTFOLIO_DEMO_LINK">
-    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
-  </a>
   <a href="YOUR_PORTFOLIO_GITHUB_LINK">
-    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="YOUR_PORTFOLIO_DEMO_LINK">Live Demo →</a>
 </p>
 
 </td>
