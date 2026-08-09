@@ -92,57 +92,121 @@ Making formula revision faster, simpler, and more engaging.
 
 ---
 
-### 📌 Current Focus
+## ⭐ Featured Projects
 
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🛠️ Building**
+<p align="left">
+  <img src="./assets/projects/clearcut.png" width="100%" alt="ClearCut"/>
+</p>
 
-Creating practical applications  
-with real-world use cases.
+### ✂️ ClearCut
+
+AI-powered mobile application for removing image backgrounds and generating transparent PNGs.
+
+**Tech Stack**
+
+`React Native` `Expo` `Node.js`  
+`Python` `FastAPI` `rembg`
+
+<p>
+  <a href="YOUR_CLEARCUT_DEMO_LINK">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="YOUR_CLEARCUT_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-**🧠 Learning**
+<p align="left">
+  <img src="./assets/projects/studybuddy.png" width="100%" alt="StudyBuddy"/>
+</p>
 
-Exploring better architecture,  
-AI integration, and system design.
+### 📚 StudyBuddy
 
-</td>
+A student-focused platform designed to help learners connect, collaborate, and find suitable study partners.
 
-<td width="33%" valign="top">
+**Tech Stack**
 
-**🚀 Improving**
+`React` `Node.js` `Express`  
+`MongoDB` `JWT`
 
-Refining UI, performance,  
-and overall user experience.
+<p>
+  <a href="YOUR_STUDYBUDDY_DEMO_LINK">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="YOUR_STUDYBUDDY_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
 
 </td>
 
 </tr>
-</table>---
 
-## ⭐ Featured Projects
+<tr>
 
-### 🪄 ClearCut
-AI-powered background removal mobile application built with React Native and a Python-based image processing service.
+<td width="50%" valign="top">
 
-### 🧮 FormulaIQ
-Offline-first formula revision companion designed for quick mathematical revision and study tracking.
-
-### 👕 ClosetIQ
-AI-powered smart wardrobe assistant for organizing clothing, creating outfits, and getting personalized recommendations.
-
-### 💰 FinTrack
-Expense tracking application focused on helping users monitor spending and manage personal finances.
+<p align="left">
+  <img src="./assets/projects/localmart.png" width="100%" alt="LocalMart"/>
+</p>
 
 ### 🛍️ LocalMart
-Mobile marketplace application built with React Native, Node.js, and MongoDB.
+
+A mobile marketplace for browsing products, managing listings, and connecting buyers with sellers.
+
+**Tech Stack**
+
+`React Native` `Node.js`  
+`Express` `MongoDB`
+
+<p>
+  <a href="YOUR_LOCALMART_DEMO_LINK">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="YOUR_LOCALMART_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<p align="left">
+  <img src="./assets/projects/portfolio.png" width="100%" alt="Developer Portfolio"/>
+</p>
+
+### 💻 Developer Portfolio
+
+A personal developer portfolio showcasing projects, technical skills, experience, and achievements.
+
+**Tech Stack**
+
+`React` `JavaScript` `CSS`  
+`Vercel`
+
+<p>
+  <a href="YOUR_PORTFOLIO_DEMO_LINK">
+    <img src="https://img.shields.io/badge/Live%20Demo-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live Demo"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_GITHUB_LINK">
+    <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
