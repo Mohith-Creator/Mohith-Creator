@@ -381,8 +381,37 @@ Building useful tools and applications that simplify everyday tasks and workflow
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohith-Creator&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohith-Creator&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohith-Creator&theme=default" 
+    width="95%" 
+    alt="GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohith-Creator&theme=default" 
+    height="180"
+    alt="Repositories Per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohith-Creator&theme=default" 
+    height="180"
+    alt="Most Commit Language"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohith-Creator&theme=default" 
+    height="180"
+    alt="GitHub Statistics"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohith-Creator&theme=default" 
+    height="180"
+    alt="Productive Time"
+  />
 </p>
 
 ---
