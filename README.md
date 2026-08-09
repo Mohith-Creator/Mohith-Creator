@@ -208,58 +208,55 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 ## 🛠️ Tech Stack
 
-<table>
+<p align="center">
+  <em>Technologies and tools I use to build modern, scalable applications.</em>
+</p>
+
+<table align="center">
 <tr>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Frontend
+### 🎨 Frontend
 
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=html" width="24"/> | **HTML5** |
-| <img src="https://skillicons.dev/icons?i=css" width="24"/> | **CSS3** |
-| <img src="https://skillicons.dev/icons?i=js" width="24"/> | **JavaScript** |
-| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **React** |
-| <img src="https://skillicons.dev/icons?i=nextjs" width="24"/> | **Next.js** |
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="42" title="HTML5"/>
+  <img src="https://skillicons.dev/icons?i=css" width="42" title="CSS3"/>
+  <img src="https://skillicons.dev/icons?i=js" width="42" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=react" width="42" title="React"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="42" title="Next.js"/>
+</p>
 
-</td>
-
-<td width="25%" valign="top">
-
-### Backend
-
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> | **Node.js** |
-| <img src="https://skillicons.dev/icons?i=express" width="24"/> | **Express.js** |
-| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Python** |
-| <img src="https://skillicons.dev/icons?i=java" width="24"/> | **Java** |
-| <img src="https://skillicons.dev/icons?i=spring" width="24"/> | **Spring Boot** |
+<sub>HTML5 · CSS3 · JavaScript · React · Next.js</sub>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Tools
+### ⚙️ Backend
 
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=git" width="24"/> | **Git** |
-| <img src="https://skillicons.dev/icons?i=github" width="24"/> | **GitHub** |
-| <img src="https://skillicons.dev/icons?i=vscode" width="24"/> | **VS Code** |
-| <img src="https://skillicons.dev/icons?i=idea" width="24"/> | **IntelliJ IDEA** |
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="42" title="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" width="42" title="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=python" width="42" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=java" width="42" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=spring" width="42" title="Spring Boot"/>
+</p>
+
+<sub>Node.js · Express.js · Python · Java · Spring Boot</sub>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Databases
+### 📱 Mobile
 
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=mongodb" width="24"/> | **MongoDB** |
-| <img src="https://skillicons.dev/icons?i=mysql" width="24"/> | **MySQL** |
+<p>
+  <img src="https://skillicons.dev/icons?i=react" width="42" title="React Native"/>
+  <img src="https://cdn.simpleicons.org/expo/FFFFFF" width="42" title="Expo"/>
+</p>
+
+<sub>React Native · Expo</sub>
 
 </td>
 
@@ -267,45 +264,74 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 <tr>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### Mobile
+### 🗄️ Databases
 
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **React Native** |
-| <img src="https://skillicons.dev/icons?i=expo" width="24"/> | **Expo** |
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="42" title="MongoDB"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="42" title="MySQL"/>
+</p>
 
-</td>
-
-<td width="25%" valign="top">
-
-### Development
-
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=postman" width="24"/> | **Postman** |
-| <img src="https://skillicons.dev/icons?i=docker" width="24"/> | **Docker** |
-| <img src="https://skillicons.dev/icons?i=vercel" width="24"/> | **Vercel** |
-| <img src="https://skillicons.dev/icons?i=render" width="24"/> | **Render** |
+<sub>MongoDB Atlas · MySQL</sub>
 
 </td>
 
-<td width="25%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### APIs & Services
+### 🔧 Tools & Workflow
 
-| | Technology |
-|---|---|
-| | **REST APIs** |
-| | **JWT** |
-| | **AsyncStorage** |
-| | **MongoDB Atlas** |
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="42" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="42" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="42" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=idea" width="42" title="IntelliJ IDEA"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="42" title="Postman"/>
+</p>
+
+<sub>Git · GitHub · VS Code · IntelliJ IDEA · Postman</sub>
+
+</td>
+
+<td width="33%" valign="top" align="center">
+
+### ☁️ DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" width="42" title="Docker"/>
+  <img src="https://skillicons.dev/icons?i=vercel" width="42" title="Vercel"/>
+  <img src="https://cdn.simpleicons.org/render/000000" width="42" title="Render"/>
+</p>
+
+<sub>Docker · Vercel · Render</sub>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td colspan="3" align="center">
+
+### 🔗 APIs & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman" width="38" title="REST APIs"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="38" title="MongoDB Atlas"/>
+</p>
+
+<sub>REST APIs · JWT Authentication · AsyncStorage · MongoDB Atlas</sub>
 
 </td>
 
 </tr>
 </table>
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,python,java,spring,mongodb,mysql,git,github,vscode,idea,postman,docker,vercel,render,expo" />
+</p>
 
 ---
 
@@ -383,7 +409,7 @@ Building useful tools and applications that simplify everyday tasks and workflow
 <p align="center">
   <img
     src="./assets/github-metrics.svg"
-    width="95%"
+    width="90%"
     alt="GitHub Statistics"
   />
 </p>
