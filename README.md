@@ -245,7 +245,6 @@ A personal developer portfolio showcasing projects, technical skills, experience
 | <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> | **Node.js** |
 | <img src="https://skillicons.dev/icons?i=express" width="24"/> | **Express.js** |
 | <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Python** |
-| <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> | **FastAPI** |
 | <img src="https://skillicons.dev/icons?i=java" width="24"/> | **Java** |
 | <img src="https://skillicons.dev/icons?i=spring" width="24"/> | **Spring Boot** |
 
@@ -259,7 +258,6 @@ A personal developer portfolio showcasing projects, technical skills, experience
 |---|---|
 | <img src="https://skillicons.dev/icons?i=mongodb" width="24"/> | **MongoDB** |
 | <img src="https://skillicons.dev/icons?i=mysql" width="24"/> | **MySQL** |
-| <img src="https://skillicons.dev/icons?i=postgresql" width="24"/> | **PostgreSQL** |
 
 </td>
 
@@ -290,19 +288,6 @@ A personal developer portfolio showcasing projects, technical skills, experience
 | <img src="https://skillicons.dev/icons?i=docker" width="24"/> | **Docker** |
 | <img src="https://skillicons.dev/icons?i=vercel" width="24"/> | **Vercel** |
 | <img src="https://skillicons.dev/icons?i=render" width="24"/> | **Render** |
-
-</td>
-
-<td width="25%" valign="top">
-
-### AI & Data
-
-| | Technology |
-|---|---|
-| <img src="https://skillicons.dev/icons?i=tensorflow" width="24"/> | **TensorFlow** |
-| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Pandas** |
-| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **NumPy** |
-| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **rembg** |
 
 </td>
 
