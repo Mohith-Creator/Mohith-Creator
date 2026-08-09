@@ -29,27 +29,22 @@
 
 <td width="50%" valign="top">
 
-<p align="center">
+<p align="left">
   <img src="./assets/projects/closetiq-cover.png" width="100%" alt="ClosetIQ"/>
 </p>
 
-<h3 align="center">👕 ClosetIQ</h3>
+<h3>👕 ClosetIQ</h3>
 
-<p align="center">
-  <strong>AI-Powered Smart Wardrobe Assistant</strong>
-</p>
+<strong>AI-Powered Smart Wardrobe Assistant</strong>
 
-<p align="center">
-  Digitizing your wardrobe and making outfit planning smarter with AI.
-</p>
+Manage your wardrobe and discover better outfits with AI.
 
 ### ✨ Highlights
 
-- 👕 Digitize and organize your wardrobe
+- 👕 Organize your digital wardrobe
 - 🤖 AI-powered outfit recommendations
 - 👔 Create and manage outfits
-- 📅 Plan what to wear
-- ✨ Personalized style suggestions
+- 📅 Plan outfits effortlessly
 
 ### 🧰 Built With
 
@@ -64,31 +59,27 @@
 
 <td width="50%" valign="top">
 
-<p align="center">
+<p align="left">
   <img src="./assets/projects/formulaiq-cover.png" width="100%" alt="FormulaIQ"/>
 </p>
 
-<h3 align="center">🧮 FormulaIQ</h3>
+<h3>🧮 FormulaIQ</h3>
 
-<p align="center">
-  <strong>Math Formula Learning Companion</strong>
-</p>
+<strong>Math Formula Learning Companion</strong>
 
-<p align="center">
-  Making formula revision faster, simpler, and more engaging.
-</p>
+Making formula revision faster, simpler, and more engaging.
 
 ### ✨ Highlights
 
 - 📚 Offline formula access
-- 🃏 Interactive flashcards
+- 🃏 Interactive formula flashcards
 - ⏱️ Focused study sessions
-- 📊 Progress tracking
+- 📊 Track learning progress
 
 ### 🧰 Built With
 
 `React Native` `Expo` `JavaScript`  
-`AsyncStorage`
+`AsyncStorage` `Offline Storage`
 
 ### 🎯 Focus
 
@@ -106,16 +97,16 @@
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 **🛠️ Building**
 
-Working on practical applications  
+Creating practical applications  
 with real-world use cases.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 **🧠 Learning**
 
@@ -124,19 +115,17 @@ AI integration, and system design.
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 **🚀 Improving**
 
-Continuously refining UI,  
-performance, and user experience.
+Refining UI, performance,  
+and overall user experience.
 
 </td>
 
 </tr>
-</table>
-
----
+</table>---
 
 ## ⭐ Featured Projects
 
