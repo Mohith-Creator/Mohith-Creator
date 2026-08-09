@@ -306,37 +306,76 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 </tr>
 </table>
+
 ---
 
 ## 💡 What I Like Building
 
-### 🌐 Web Apps
-Modern, responsive and scalable web experiences.
+<table>
+<tr>
 
-### 📱 Mobile Apps
-Practical applications with clean and intuitive interfaces.
+<td width="33%" valign="top">
 
-### 🤖 AI Products
-Real-world applications powered by AI and automation.
+### 🌐 Web Applications
+
+Building responsive and scalable web experiences with a focus on performance and usability.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📱 Mobile Applications
+
+Creating practical mobile experiences with clean interfaces and intuitive interactions.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🤖 AI-Powered Products
+
+Turning AI capabilities into useful products that solve real-world problems.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
 
 ### ⚙️ Backend Systems
-REST APIs, authentication, databases and third-party integrations.
 
-### 🎨 UI/UX
-Clean interfaces with thoughtful user experiences and smooth interactions.
+Designing reliable APIs, authentication systems, databases, and service integrations.
 
-### 🚀 Developer Projects
-Useful tools and applications that solve everyday problems.
+</td>
+
+<td width="33%" valign="top">
+
+### 🎨 UI & UX
+
+Creating simple, thoughtful interfaces with smooth interactions and attention to detail.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🚀 Developer Tools
+
+Building useful tools and applications that simplify everyday tasks and workflows.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🏆 Achievements
 
 - 🏆 **Best Implementation Award** — GDG Hackathon 2025
-- 🎓 **B.Tech in Computer Science** — SRKR Engineering College
-- 💻 Built multiple full-stack, AI-powered and mobile applications
-- 🚀 Experience across React, React Native, Node.js, Python and Java
-
+- **350+ Problems Solved** — LeetCode & GeeksforGeeks
+  
 ---
 
 ## 📊 GitHub Stats
