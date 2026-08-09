@@ -208,36 +208,103 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 ## 🛠️ Tech Stack
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" alt="Frontend technologies"/>
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,java,spring" alt="Backend technologies"/>
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=html" width="28"/> | **HTML5** |
+| <img src="https://skillicons.dev/icons?i=css" width="28"/> | **CSS3** |
+| <img src="https://skillicons.dev/icons?i=js" width="28"/> | **JavaScript** |
+| <img src="https://skillicons.dev/icons?i=react" width="28"/> | **React** |
+| <img src="https://skillicons.dev/icons?i=nextjs" width="28"/> | **Next.js** |
 
 ### Mobile Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,expo" alt="Mobile technologies"/>
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=react" width="28"/> | **React Native** |
+| <img src="https://skillicons.dev/icons?i=expo" width="28"/> | **Expo** |
+
+</td>
+
+<td width="50%" valign="top">
+
+### Backend
+
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="28"/> | **Node.js** |
+| <img src="https://skillicons.dev/icons?i=express" width="28"/> | **Express.js** |
+| <img src="https://skillicons.dev/icons?i=python" width="28"/> | **Python** |
+| <img src="https://skillicons.dev/icons?i=fastapi" width="28"/> | **FastAPI** |
+| <img src="https://skillicons.dev/icons?i=java" width="28"/> | **Java** |
+| <img src="https://skillicons.dev/icons?i=spring" width="28"/> | **Spring Boot** |
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Database technologies"/>
-</p>
+| | Technology |
+|---|---|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="28"/> | **MongoDB** |
+| <img src="https://skillicons.dev/icons?i=mysql" width="28"/> | **MySQL** |
+| <img src="https://skillicons.dev/icons?i=postgresql" width="28"/> | **PostgreSQL** |
+
+</td>
+</tr>
+</table>
 
 ### Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,docker,vercel,render,railway" alt="Tools and platforms"/>
-</p>
+<table>
+<tr>
+<td>
 
+<img src="https://skillicons.dev/icons?i=git" width="28"/> **Git**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=github" width="28"/> **GitHub**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vscode" width="28"/> **VS Code**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=idea" width="28"/> **IntelliJ IDEA**
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postman" width="28"/> **Postman**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=docker" width="28"/> **Docker**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=vercel" width="28"/> **Vercel**
+
+</td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=render" width="28"/> **Render**
+
+</td>
+</tr>
+</table>
 ---
 
 ## 💡 What I Like Building
