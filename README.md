@@ -211,7 +211,7 @@ A personal developer portfolio showcasing projects, technical skills, experience
 <table>
 <tr>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### Frontend
 
@@ -225,9 +225,9 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### Mobile Development
+### Mobile
 
 | | Technology |
 |---|---|
@@ -236,7 +236,7 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### Backend
 
@@ -251,11 +251,7 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### Databases
 
@@ -267,9 +263,13 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
 
-### Tools & Platforms
+<tr>
+
+<td width="25%" valign="top">
+
+### Tools
 
 | | Technology |
 |---|---|
@@ -277,6 +277,15 @@ A personal developer portfolio showcasing projects, technical skills, experience
 | <img src="https://skillicons.dev/icons?i=github" width="24"/> | **GitHub** |
 | <img src="https://skillicons.dev/icons?i=vscode" width="24"/> | **VS Code** |
 | <img src="https://skillicons.dev/icons?i=idea" width="24"/> | **IntelliJ IDEA** |
+
+</td>
+
+<td width="25%" valign="top">
+
+### Development
+
+| | Technology |
+|---|---|
 | <img src="https://skillicons.dev/icons?i=postman" width="24"/> | **Postman** |
 | <img src="https://skillicons.dev/icons?i=docker" width="24"/> | **Docker** |
 | <img src="https://skillicons.dev/icons?i=vercel" width="24"/> | **Vercel** |
@@ -284,23 +293,34 @@ A personal developer portfolio showcasing projects, technical skills, experience
 
 </td>
 
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### AI & Other
+### AI & Data
 
 | | Technology |
 |---|---|
 | <img src="https://skillicons.dev/icons?i=tensorflow" width="24"/> | **TensorFlow** |
 | <img src="https://skillicons.dev/icons?i=python" width="24"/> | **Pandas** |
-| <img src="https://skillicons.dev/icons?i=fastapi" width="24"/> | **REST APIs** |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="24"/> | **JWT** |
-| <img src="https://skillicons.dev/icons?i=react" width="24"/> | **AsyncStorage** |
+| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **NumPy** |
+| <img src="https://skillicons.dev/icons?i=python" width="24"/> | **rembg** |
+
+</td>
+
+<td width="25%" valign="top">
+
+### APIs & Services
+
+| | Technology |
+|---|---|
+| | **REST APIs** |
+| | **JWT** |
+| | **AsyncStorage** |
+| | **MongoDB Atlas** |
 
 </td>
 
 </tr>
 </table>
-
 ---
 
 ## 💡 What I Like Building
