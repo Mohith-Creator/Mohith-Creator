@@ -116,7 +116,7 @@ AI-powered mobile application for removing image backgrounds and generating tran
   <a href="https://github.com/Mohith-Creator/ClearCut-mobile">
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
-  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
   <a href="https://expo.dev/accounts/mohith1532/projects/ClearCut/builds/50674834-cf1b-46d9-b2fc-3bcdace62595">Live Demo →</a>
 </p>
 
