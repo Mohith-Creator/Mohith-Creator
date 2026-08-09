@@ -393,58 +393,48 @@ Building useful tools and applications that simplify everyday tasks and workflow
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohith-Creator&hide_border=true" width="100%" alt="GitHub Contribution Graph"/>
+  <img
+    src="./assets/github-metrics.svg"
+    width="95%"
+    alt="GitHub Contribution Activity"
+  />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-```text
-☑ Complete B.Tech in Computer Science
-☑ Build production-ready applications
-☑ Strengthen Full Stack Development skills
-☑ Build and deploy mobile applications
-
-☐ Contribute to Open Source
-☐ Build more AI-powered products
-☐ Improve System Design skills
-☐ Strengthen DSA fundamentals
-☐ Grow as a Software Engineer
-```
-
----
-
-## 📚 Currently Learning
-
-```text
-→ Data Structures & Algorithms
-→ System Design
-→ Advanced React & Next.js
-→ Backend Architecture
-→ Cloud & Deployment
-→ AI-powered Application Development
-```
+| Status | Goal |
+|:---:|---|
+| ✓ | Build and ship production-ready applications |
+| ✓ | Strengthen Full Stack Development skills |
+| ✓ | Build and deploy mobile applications |
+| ☐ | Contribute to Open Source |
+| ☐ | Build more AI-powered products |
+| ☐ | Improve System Design skills |
+| ☐ | Strengthen DSA fundamentals |
+| ☐ | Grow as a Software Engineer |
 
 ---
 
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohithreddy1532">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
   <a href="https://github.com/Mohith-Creator">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:smohithreddy000@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-mohith-reddys-d7edca38.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  &nbsp;&nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <i>Build projects that solve real problems, and let your work speak for you.</i>
+  Let's connect, collaborate on ideas, and build useful software together.
+  <br/>
+  Always open to new opportunities, interesting projects, and meaningful collaborations.
 </p>
