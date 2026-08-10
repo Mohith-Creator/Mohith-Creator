@@ -196,7 +196,7 @@ A personal developer portfolio showcasing projects, technical skills, experience
     <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Source Code"/>
   </a>
  <span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://portfolio-mohith-reddys-projects-d7edca38.vercel.app/">Live Demo →</a>
+  <a href="https://mohith-creator.vercel.app/">Live Demo →</a>
 </p>
 
 </td>
